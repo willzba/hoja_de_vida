@@ -1,11 +1,11 @@
 
 header{
     text-align: center;
-    font-family: cursive;
+    font-family:'Times New Roman', Times, serif;
     padding-top: 30px;
     margin-bottom: 15px;
     margin-right: 80px;
-    color: rgb(176, 165, 245);
+    color: rgba(114, 247, 196, 0.774);
     text-decoration:underline;
 }
 
@@ -26,9 +26,14 @@ section{
 footer{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-.clearfix{
-    background-color:rgba(170, 230, 210, 0.568);
-    padding: 20px;
+
+#nombre{
+    font-family:'Times New Roman', Times, serif;
+}
+#presentacion{
+    font-size: 18px;
+    background-color:rgba(145, 216, 218, 0.432) ; ;
+    padding: 12px;
     border-radius: 10px;
 }
 
@@ -38,7 +43,7 @@ footer{
 }
 .row{
     text-align:left;
-    background:rgba(138, 218, 219, 0.884) ;
+    background:rgba(145, 216, 218, 0.651) ;
     padding: 17px;
     border-radius: 10px;
 
